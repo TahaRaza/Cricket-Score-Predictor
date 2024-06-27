@@ -1,0 +1,93 @@
+﻿Team 1,Team 2,Team 1 Score,Team 2 Score,Score Difference,Margin Type,Ground,Pitch Type
+Australia,England,286,253,33, runs,Ahmedabad,Flat Track Pitch
+Australia,Pakistan,367,305,62, runs,Bengaluru,Flat Track Pitch
+New Zealand,Pakistan,200,401,21, runs,Bengaluru,Flat Track Pitch
+India,Netherlands,410,250,160, runs,Bengaluru,Flat Track Pitch
+Bangladesh,India,286,314,28, runs,Birmingham,Flat Track Pitch
+England,India,337,306,31, runs,Birmingham,Flat Track Pitch
+England,Bangladesh,173,172,106, runs,Cardiff,Flat Track Pitch
+Afghanistan,Sri Lanka,152,201,34, runs,Cardiff,Flat Track Pitch
+Afghanistan,New Zealand,139,288,149, runs,Chennai,Dry Pitch
+England,New Zealand,305,186,119, runs,Chester-le-Street,Green Pitch
+Sri Lanka,West Indies,338,315,23, runs,Chester-le-Street,Green Pitch
+South Africa,Sri Lanka,428,326,102, runs,Delhi,Dry Pitch
+Afghanistan,England,284,215,69, runs,Delhi,Dry Pitch
+Australia,Netherlands,399,90,309, runs,Delhi,Dry Pitch
+Bangladesh,England,227,364,137, runs,Dharamsala,Green Pitch
+Netherlands,South Africa,245,207,38, runs,Dharamsala,Green Pitch
+Australia,New Zealand,388,142,5, runs,Dharamsala,Green Pitch
+Bangladesh,Netherlands,229,383,87, runs,Eden Gardens,Dusty Pitch
+India,South Africa,326,83,243, runs,Eden Gardens,Dusty Pitch
+England,Pakistan,337,244,93, runs,Eden Gardens,Dusty Pitch
+Netherlands,Pakistan,205,286,81, runs,Hyderabad,Flat Track Pitch
+Netherlands,New Zealand,223,332,99, runs,Hyderabad,Flat Track Pitch
+Afghanistan,West Indies,288,311,23, runs,Leeds,Green Pitch
+England,Sri Lanka,212,232,20, runs,Leeds,Green Pitch
+Bangladesh,Pakistan,221,315,94, runs,Lord's,Flat Track Pitch
+Australia,New Zealand,227,157,86, runs,Lord's,Flat Track Pitch
+England,Australia,221,285,64, runs,Lord's,Flat Track Pitch
+Pakistan,South Africa,308,259,49, runs,Lord's,Flat Track Pitch
+Australia,South Africa,177,311,134, runs,Lucknow,Flat Track Pitch
+India,England,129,229,100, runs,Lucknow,Flat Track Pitch
+India,New Zealand,221,239,18, runs,Manchester,Flat Track Pitch
+Australia,South Africa,315,325,10, runs,Manchester,Flat Track Pitch
+India,West Indies,268,143,125, runs,Manchester,Flat Track Pitch
+New Zealand,West Indies,224,213,5, runs,Manchester,Flat Track Pitch
+England,Afghanistan,397,247,150, runs,Manchester,Flat Track Pitch
+India,Pakistan,336,212,89, runs,Manchester,Flat Track Pitch
+Australia,Bangladesh,381,333,48, runs,Nottingham,Green Pitch
+Australia,West Indies,288,273,15, runs,Nottingham,Green Pitch
+England,Pakistan,334,348,14, runs,Nottingham,Green Pitch
+New Zealand,South Africa,167,357,190, runs,Pune,Dusty Pitch
+England,Netherlands,339,179,160, runs,Pune,Dusty Pitch
+Afghanistan,Bangladesh,200,262,62, runs,Southampton,Flat Track Pitch
+Afghanistan,India,286,291,11, runs,Southampton,Flat Track Pitch
+Australia,Pakistan,307,266,41, runs,Taunton,Flat Track Pitch
+Australia,Sri Lanka,131,125,87, runs,The Oval,Flat Track Pitch
+Australia,India,316,352,36, runs,The Oval,Flat Track Pitch
+Bangladesh,South Africa,330,309,21, runs,The Oval,Flat Track Pitch
+England,South Africa,311,207,104, runs,The Oval,Flat Track Pitch
+England,South Africa,170,262,229, runs,Wankhede,Flat Track Pitch
+Bangladesh,South Africa,233,382,149, runs,Wankhede,Flat Track Pitch
+India,Sri Lanka,357,55,302, runs,Wankhede,Flat Track Pitch
+India,New Zealand,397,327,70, runs,Wankhede,Flat Track Pitch
+Pakistan,South Africa,270,271,18, runs,Chennai,Dry Pitch
+England,New Zealand,282,283,174, runs,Ahmedabad,Flat Track Pitch
+India,Pakistan,192,191,222, runs,Ahmedabad,Flat Track Pitch
+Afghanistan,South Africa,244,247,137, runs,Ahmedabad,Flat Track Pitch
+India,Australia,240,241,192, runs,Ahmedabad,Flat Track Pitch
+England,Sri Lanka,156,160,284, runs,Bengaluru,Flat Track Pitch
+New Zealand,Sri Lanka,172,171,94, runs,Bengaluru,Flat Track Pitch
+England,Australia,226,223,396, runs,Birmingham,Flat Track Pitch
+New Zealand,Pakistan,237,241,192, runs,Birmingham,Flat Track Pitch
+New Zealand,South Africa,245,241,91, runs,Birmingham,Flat Track Pitch
+Afghanistan,Australia,207,209,243, runs,Bristol,Flat Track Pitch
+Afghanistan,South Africa,273,334,174, runs,Cardiff,Flat Track Pitch
+New Zealand,Sri Lanka,137,136,174, runs,Cardiff,Flat Track Pitch
+India,Australia,201,199,159, runs,Chennai,Dry Pitch
+Bangladesh,New Zealand,245,248,174, runs,Chennai,Dry Pitch
+Afghanistan,Pakistan,286,282,174, runs,Chennai,Dry Pitch
+South Africa,Sri Lanka,206,203,174, runs,Chester-le-Street,Green Pitch
+India,Afghanistan,273,272,174, runs,Delhi,Dry Pitch
+Bangladesh,Sri Lanka,282,279,69, runs,Delhi,Dry Pitch
+Afghanistan,Bangladesh,156,158,126, runs,Dharamsala,Green Pitch
+India,New Zealand,274,273,103, runs,Dharamsala,Green Pitch
+Bangladesh,Pakistan,204,205,239, runs,Eden Gardens,Dusty Pitch
+Australia,South Africa,215,212,52, runs,Eden Gardens,Dusty Pitch
+Pakistan,Sri Lanka,345,344,275, runs,Hyderabad,Flat Track Pitch
+India,Sri Lanka,265,264,307, runs,Leeds,Green Pitch
+Afghanistan,Pakistan,230,243,60, runs,Leeds,Green Pitch
+England,New Zealand,241,241,0, runs,Lord's,Flat Track Pitch
+Australia,Sri Lanka,215,209,116, runs,Lucknow,Flat Track Pitch
+Netherlands,Sri Lanka,263,399,221, runs,Lucknow,Flat Track Pitch
+Afghanistan,Netherlands,181,179,208, runs,Lucknow,Flat Track Pitch
+Pakistan,West Indies,105,108,125, runs,Nottingham,Green Pitch
+India,Bangladesh,261,256,298, runs,Pune,Dusty Pitch
+Afghanistan,Sri Lanka,242,241,0, runs,Pune,Dusty Pitch
+Australia,Bangladesh,307,306,174, runs,Pune,Dusty Pitch
+England,West Indies,213,212,376, runs,Southampton,Flat Track Pitch
+India,South Africa,230,227,181, runs,Southampton,Flat Track Pitch
+Bangladesh,West Indies,322,321,374, runs,Taunton,Flat Track Pitch
+Afghanistan,New Zealand,280,386,174, runs,Taunton,Flat Track Pitch
+Bangladesh,New Zealand,244,248,36, runs,The Oval,Flat Track Pitch
+Afghanistan,Australia,291,293,73, runs,Wankhede,Flat Track Pitch
