@@ -9,6 +9,22 @@ Department of Computer Engineering, Information Technology University, Lahore, P
 
 ---
 
+## Table of Contents
+1. [Abstract](#abstract)
+2. [Keywords](#keywords)
+3. [Introduction](#introduction)
+4. [Materials and Methods](#materials-and-methods)
+    1. [Data Sources](#data-sources)
+    2. [Model Selection and Training](#model-selection-and-training)
+        1. [Training Process](#training-process)
+    3. [Model Evaluation](#model-evaluation)
+5. [Results](#results)
+    1. [Model Comparison](#model-comparison)
+6. [Software and Hardware Requirements](#software-and-hardware-requirements)
+    1. [Hardware Requirements](#hardware-requirements)
+    2. [Software Requirements](#software-requirements)
+7. [References](#references)
+
 ## Abstract
 A machine learning project successfully predicted cricket scores (run rate, total score) for T20 and ODI matches using Random Forest, Decision Tree, and KNN regression. All models achieved impressive accuracy (RMSE < 30), with Random Forest excelling. This paves the way for further exploration of ensemble methods and hyper-parameter tuning for optimized performance.
 
